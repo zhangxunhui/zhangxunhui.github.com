@@ -62,4 +62,4 @@ author_profile: true
 * A Novel Open Source Software Ecosystem: From a Graphic Point of View and Its Application. <br />
 	<small>Chenxi Song, Tao Wang, Gang Yin, <strong>Xunhui Zhang</strong>, Cheng Yang<br />
 	<i>The 28th International Conference on Software Engineering & Knowledge Engineering ([SEKE 2016](http://ksiresearchorg.ipage.com/seke/seke16.html))</i>, California, USA. 2016. Short Paper. <br />
-	[pdf](/files/SEKE_2016_scx)</small>
+	[pdf](/files/SEKE_2016_scx.pdf)</small>
