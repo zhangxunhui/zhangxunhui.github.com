@@ -5,34 +5,31 @@ author_profile: true
 ---
 
 ## Awards
+* 2016 Prototype System Contest of NASAC 
+	* Second Prize
+
 * 2016 OW2 International Programming Contest
 	* Third Prize
 
-* 2014 National Graduate Students' Mathematical Contest in Modeling
+* 2015 OW2 International Programming Contest
 	* Third Prize
 
-* 2013 OW2 International Programming Contest
-	* Special Prize (Only One)
-
-* 2012 National Information Security Competition
-	* Second Prize
-
-* 2012 International Mathematical Contest in Modeling
+* 2014 International Mathematical Contest In Modeling
 	* Meritorious Winner
-
-* 2011 National Mathematical Contest in Modeling
-	* Second Prize
-
-* 2010 National Mathematical Contest
-	* Second Prize
 
 ## Honors
 * 2016-2017 Honored as Excellent graduate student of College of Computer (NUDT)
 
-* 2013-2014 Honored as Excellent graduate student of College of Computer (NUDT)
+* 2015 Honored as Excellent graduate student of Sichuan Province
 
-* 2012 Awarded "Yin He" Scholarship in NUDT
+* 2012-2013 Honored as Excellent student cadre of Sichuan University
 
-* 2011 Honored as Excellent undergraduate student of NUDT
+* 2013 Awarded "Tang Lixin" Scholarship in Sichuan University
 
-* 2009-2013 Honored as Excellent undergraduate student of College of Computer (NUDT) (four times)
+* 2011-2012 Honored as Excellent undergraduate student of Sichuan University
+
+* 2012 Awarded National Scholarship in Sichuan University
+
+* 2012 Awarded First Level Individual Scholarship in Sichuan University
+
+* 2011 Honored as Excellent student cadre of Hebei Province

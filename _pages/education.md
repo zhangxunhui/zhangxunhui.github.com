@@ -4,25 +4,19 @@ permalink: /education/
 author_profile: true
 ---
 
-## March 2015 - Present
+## March 2018 - Present
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
 * Phd. Candidate
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
-* Software Engineering, Open Source Software, Data Mining, Social Network. 
+* Software Engineering, Joint Cloud Computing, Blockchain. 
 
-## October 2016 - October 2017
-[DECAL Lab](https://decallab.cs.ucdavis.edu), Computer Science Department, University of California, Davis, USA.
-* Visting Phd. Student
-* Advisor: Prof. [Vladimir Filkov](http://web.cs.ucdavis.edu/~filkov)
-* Open Source Software, Software Engineering, GiHub, Mining Software Repositories.
-
-## September 2013 - March 2015
+## September 2015 - December 2017
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. 
 * M.S. 
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
-* Software Engineering, Open Source Software, Data Mining, Social Network. 
+* Software Engineering, Open Source Software, Developer Recommendation, Code Summarization.
 
-## September 2009 - July 2013
-National University of Defense Technology (NUDT), China. 
-* B.E. 
+## September 2011 - July 2015
+Sichuan University (SCU), China. 
+* B.Eng. 
 * Computer Science and Technology.
