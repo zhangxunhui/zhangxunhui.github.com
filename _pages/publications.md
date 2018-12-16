@@ -10,7 +10,7 @@ author_profile: true
 	<i>[Journal of Central South University](http://www.zndxyw.cn)</i>, 2018. Impact factor: 2.4423. <br />
 	[pdf](/files/JCSUT_2018_yc.pdf)</small>
 	
-* Cross-Project Issue Classification based on Ensemble Modeling in a Social Coding World. <font color="red">Accepted!</font><br />
+* Cross-Project Issue Classification based on Ensemble Modeling in a Social Coding World.<br />
 	<small>Yarong Zeng, Yue Yu, Qiang Fan, <strong>Xunhui Zhang</strong>, Huaimin Wang<br />
 	<i>The 25th International Conference on Neural Information Processing ([ICONIP 2018](https://conference.cs.cityu.edu.hk/iconip/))</i>, Cambodia. 2018. Full paper. CCF-C. <br />
 	[pdf](/files/ICONIP_2018_zyr.pdf)</small>
