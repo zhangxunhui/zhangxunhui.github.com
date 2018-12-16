@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## Awards
+* 2018 Prototype System Contest of NASAC
+	* Honorable Mention
+
 * 2016 Prototype System Contest of NASAC 
 	* Second Prize
 

@@ -13,7 +13,7 @@ author_profile: true
 * Cross-Project Issue Classification based on Ensemble Modeling in a Social Coding World. <font color="red">Accepted!</font><br />
 	<small>Yarong Zeng, Yue Yu, Qiang Fan, <strong>Xunhui Zhang</strong>, Huaimin Wang<br />
 	<i>The 25th International Conference on Neural Information Processing ([ICONIP 2018](https://conference.cs.cityu.edu.hk/iconip/))</i>, Cambodia. 2018. Full paper. CCF-C. <br />
-	[preprint]()</small>
+	[pdf](/files/ICONIP_2018_zyr.pdf)</small>
 	
 * Software Ranker: A New Comprehensive Software Ranking Approach. <font color="red">Accepted!</font><br />
 	<small>Yarong Zeng, Yue Yu, <strong>Xunhui Zhang</strong>, Yaozong Li, Tao Wang, Gang Yin, Huaimin Wang<br />
