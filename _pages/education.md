@@ -12,7 +12,7 @@ National Laboratory for Parallel and Distributed Processing (PDL), National Univ
 
 ## September 2015 - December 2017
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. 
-* M.S. 
+* M.Eng. 
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
 * Software Engineering, Open Source Software, Developer Recommendation, Code Summarization.
 

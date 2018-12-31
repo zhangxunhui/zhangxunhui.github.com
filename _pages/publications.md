@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 2018
-* RevRec: A Two-layer Rev iewer Recommendation Algorithm in Pull-based Development Model. <br />
+* RevRec: A Two-layer Reviewer Recommendation Algorithm in Pull-based Development Model. <br />
 	<small>Cheng Yang, <strong>Xunhui Zhang</strong>, Lingbin Zeng, Qiang Fan, Tao Wang, Yue Yu, Gang Yin, Huaimin Wang <br />
 	<i>[Journal of Central South University](http://www.zndxyw.cn)</i>, 2018. Impact factor: 2.4423. <br />
 	[pdf](/files/JCSUT_2018_yc.pdf)</small>
@@ -20,10 +20,10 @@ author_profile: true
 	<i>The 8th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/))</i>, Beijing, China. 2018. Full paper. <br />
 	[preprint]()</small>
 
-* Improving Code Summarization by Combining Deep Learning and Empirical Knowledge. <font color="red">Accepted!</font><br />
+* Improving Code Summarization by Combining Deep Learning and Empirical Knowledge.<br />
 	<small>Lingbin Zeng, <strong>Xunhui Zhang</strong>, Tao Wang, Gang Yin, Huaimin Wang<br />
 	<i>The 30th International Conference on Software Engineering & Knowledge Engineering ([SEKE 2018](http://ksiresearchorg.ipage.com/seke/seke18.html))</i>, California, USA. 2018. Short paper. CCF-C. <br />
-	[preprint]()</small>
+	[pdf](/files/SEKE_2018_zlb.pdf)</small>
 
 * Evaluating Students' Learning Situations Using "Four-quadrant Law". <font color="red">Accepted!</font><br />
 	<small>Jinze Liu, Dongyang Hu, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
@@ -49,7 +49,7 @@ author_profile: true
 	
 * An empirical study of reviewer recommendation in pull-based development model. <br />
 	<small>Cheng Yang, <strong>Xunhui Zhang</strong>, Lingbin Zeng, Qiang Fan, Gang Yin, Huaimin Wang<br />
-	<i>The 9th Asia-Pacific Symposium on Internetware ([Internetware 2017](http://www.se.fudan.edu.cn/events/Internetware2017/))</i>, Shanghai, China. 2017. Full paper. CCF-C. <br />
+	<i>The 9th Asia-Pacific Symposium on Internetware ([Internetware 2017](http://www.se.fudan.edu.cn/events/Internetware2017/))</i>, Shanghai, China. 2017. Full paper. <br />
 	[pdf](/files/Internetware_2017_yc.pdf)</small>
 	
 	

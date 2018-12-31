@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xunhui Zhang's webpage"
 title_separator          : "-"
-name                     : &name "Xunhui Zhang (张迅晖)"
+name                     : &name "Xunhui Zhang(张迅晖)"
 description              : &description "personal description"
 url                      : https://zhangxunhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xunhui Zhang (张迅晖)"
+  name             : "Xunhui Zhang(张迅晖)"
   avatar           : "profile.png"
   bio              :
   location         : "Changsha, Hunan, China"
