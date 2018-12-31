@@ -15,10 +15,10 @@ author_profile: true
 	<i>The 25th International Conference on Neural Information Processing ([ICONIP 2018](https://conference.cs.cityu.edu.hk/iconip/))</i>, Cambodia. 2018. Full paper. CCF-C. <br />
 	[pdf](/files/ICONIP_2018_zyr.pdf)</small>
 	
-* Software Ranker: A New Comprehensive Software Ranking Approach. <font color="red">Accepted!</font><br />
+* Software Ranker: A New Comprehensive Software Ranking Approach.<br />
 	<small>Yarong Zeng, Yue Yu, <strong>Xunhui Zhang</strong>, Yaozong Li, Tao Wang, Gang Yin, Huaimin Wang<br />
 	<i>The 8th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/))</i>, Beijing, China. 2018. Full paper. <br />
-	[preprint]()</small>
+	[pdf](/files/ICSESS_2018_zyr.pdf)</small>
 
 * Improving Code Summarization by Combining Deep Learning and Empirical Knowledge.<br />
 	<small>Lingbin Zeng, <strong>Xunhui Zhang</strong>, Tao Wang, Gang Yin, Huaimin Wang<br />
