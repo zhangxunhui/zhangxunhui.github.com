@@ -3,6 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2019
+* LS4BUCC: A Low Overhead Storage Architecture for Blockchain Based Unmanned Collaborative Cognition System. <br />
+	<small><strong>Xunhui Zhang</strong>, Huaimin Wang, Peichang Shi, Xiang Fu <br />
+	<i>The 10th IEEE International Workshop on Joint Cloud Computing ([JCC 2019](https://jointcloud.github.io/jcc2019/))</i>, San Francisco. 2019. Full paper. <br />
+	[preprint]()</small>
 
 ## 2018
 * RevRec: A Two-layer Reviewer Recommendation Algorithm in Pull-based Development Model. <br />
@@ -25,12 +30,12 @@ author_profile: true
 	<i>The 30th International Conference on Software Engineering & Knowledge Engineering ([SEKE 2018](http://ksiresearchorg.ipage.com/seke/seke18.html))</i>, California, USA. 2018. Short paper. CCF-C. <br />
 	[pdf](/files/SEKE_2018_zlb.pdf)</small>
 
-* Evaluating Students' Learning Situations Using "Four-quadrant Law". <font color="red">Accepted!</font><br />
+* Evaluating Students' Learning Situations Using "Four-quadrant Law". <br />
 	<small>Jinze Liu, Dongyang Hu, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
 	<i>The 14th China-Europe International Symposium on Software Engineering Education ([CEISEE 2018](https://ceisee2018cn.wordpress.com/))</i>, Shenzhen, China. 2018. Full paper.<br />
 	[preprint]()</small>
 	
-* Analyzing Student Behavior in Online Programming Courses. <font color="red">Accepted!</font><br />
+* Analyzing Student Behavior in Online Programming Courses.<br />
 	<small>Xinyu You, Bohong Liu, Menghua Cao, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
 	<i>The 14th China-Europe International Symposium on Software Engineering Education ([CEISEE 2018](https://ceisee2018cn.wordpress.com/))</i>, Shenzhen, China. 2018. Full paper.<br />
 	[preprint]()</small>

@@ -8,7 +8,7 @@ author_profile: true
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
 * Phd. Candidate
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
-* Software Engineering, Joint Cloud Computing, Blockchain. 
+* Software Engineering, Developer Contribution Measurement, Code Clone Detection, Blockchain. 
 
 ## September 2015 - December 2017
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. 
