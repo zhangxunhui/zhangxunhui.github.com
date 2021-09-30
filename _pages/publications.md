@@ -25,10 +25,10 @@ author_profile: true
 	<i>The 8th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/))</i>, Beijing, China. 2018. Full paper. <br />
 	[pdf](/files/ICSESS_2018_zyr.pdf)</small>
 
-* Improving Code Summarization by Combining Deep Learning and Empirical Knowledge.<br />
+<!-- * Improving Code Summarization by Combining Deep Learning and Empirical Knowledge.<br />
 	<small>Lingbin Zeng, <strong>Xunhui Zhang</strong>, Tao Wang, Gang Yin, Huaimin Wang<br />
 	<i>The 30th International Conference on Software Engineering & Knowledge Engineering ([SEKE 2018](http://ksiresearchorg.ipage.com/seke/seke18.html))</i>, California, USA. 2018. Short paper. CCF-C. <br />
-	[pdf](/files/SEKE_2018_zlb.pdf)</small>
+	[pdf](/files/SEKE_2018_zlb.pdf)</small> -->
 
 * Evaluating Students' Learning Situations Using "Four-quadrant Law". <br />
 	<small>Jinze Liu, Dongyang Hu, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
