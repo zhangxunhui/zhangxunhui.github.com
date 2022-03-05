@@ -3,11 +3,49 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2022
+* Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github's Sponsor Mechanism. <br />
+	<small><strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Qiubing Zeng, Zhixing Li, Huaimin Wang <br />
+	<i>2022 ACM CHI Conference on Human Factors in Computing Systems ([CHI 2022](https://chi2022.acm.org/))</i>, New Orleans, The United States. 2022. Full paper. <br />
+	[preprint](/files/CHI_2022_zxh.pdf)</small>
+
+* Teegraph: trusted execution environment and directed acyclic graph-based consensus algorithm for IoT blockchains. <br />
+	<small>Xiang Fu, Huaimin Wang, Peichang Shi, Xingkong Ma, <strong>Xunhui Zhang</strong> <br />
+	<i>[Science China Information Sciences] (https://www.springer.com/journal/11432)</i>, 2022. Impact factor: 4.380. <br />
+	[pdf](/files/SCIS_2022_fx.pdf)</small>
+
+## 2021
+* Jointgraph: A DAG-based efficient consensus algorithm for consortium blockchains. <br />
+	<small>Xiang Fu, Huaimin Wang, Peichang Shi, Xue Ouyang, <strong>Xunhui Zhang</strong> <br />
+	<i>[Journal of Software: Practice and Experience] (https://onlinelibrary.wiley.com/journal/1097024x)</i>, 2021. Impact factor: 2.028. <br />
+	[pdf](/files/JSPE_2021_fx.pdf)</small>
+
+## 2020
+* On the shoulders of giants: A new dataset for pull-based development research. <br />
+	<small><strong>Xunhui Zhang</strong>, Ayushi Rastogi, Yue Yu <br />
+	<i>The 17th International Conference on Mining Software Repositories ([MSR 2020](https://2020.msrconf.org/))</i>, Seoul, South Korea. 2020. Data Showcase. <br />
+	[pdf](/files/MSR_2020_zxh.pdf)</small>
+
 ## 2019
 * LS4BUCC: A Low Overhead Storage Architecture for Blockchain Based Unmanned Collaborative Cognition System. <br />
 	<small><strong>Xunhui Zhang</strong>, Huaimin Wang, Peichang Shi, Xiang Fu <br />
 	<i>The 10th IEEE International Workshop on Joint Cloud Computing ([JCC 2019](https://jointcloud.github.io/jcc2019/))</i>, San Francisco. 2019. Full paper. <br />
-	[preprint]()</small>
+	[pdf](/files/JCC_2019_zxh.pdf)</small>
+
+* BBCPS: A Blockchain Based Open Source Contribution Protection System. <br />
+	<small>Qiubing Zeng, <strong>Xunhui Zhang</strong>, Tao Wang, Peichang Shi, Xiang Fu, Chenhui Feng <br />
+	<i>2019 International Conference on Blockchain and Trustworthy Systems ([BlockSys 2019](http://blocksys.info/2019/))</i>, Guangzhou, China. 2019. Full paper. <br />
+	[pdf](/files/Blocksys19_zqb.pdf)</small>
+
+* A Neural-Network based Code Summarization Approach by Using Source Code and its Call Dependencies. <br />
+	<small>Bohong Liu, Tao Wang, <strong>Xunhui Zhang</strong>, Qiang Fan, Gang Yin, Jinsheng Deng <br />
+	<i>The 11th Asia-Pacific Symposium on Internetware ([Internetware 2019](https://internetware2019.github.io/))</i>, Fukuoka, Japan. 2019. Full paper. <br />
+	[pdf](/files/Internetware_2019_lbh.pdf)</small>
+
+* RepoLike: amulti-feature-based personalized recommendation approach for open-source repositories. <br />
+	<small>Cheng Yang, Qiang Fan, Tao Wang, Gang Yin, <strong>Xunhui Zhang</strong>, Yue Yu, Huaimin Wang <br />
+	<i>[Frontiers of Information Technology & Electronic Engineering] (https://www.springer.com/journal/11714)</i>, 2019. Impact factor: 2.161. <br />
+	[pdf](/files/FITEE_2019_yc.pdf)</small>
 
 ## 2018
 * RevRec: A Two-layer Reviewer Recommendation Algorithm in Pull-based Development Model. <br />
