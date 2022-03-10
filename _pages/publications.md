@@ -6,8 +6,13 @@ author_profile: true
 ## 2022
 * Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github's Sponsor Mechanism. <br />
 	<small><strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Qiubing Zeng, Zhixing Li, Huaimin Wang <br />
-	<i>2022 ACM CHI Conference on Human Factors in Computing Systems ([CHI 2022](https://chi2022.acm.org/))</i>, New Orleans, The United States. 2022. Full paper. <br />
+	<i>2022 ACM CHI Conference on Human Factors in Computing Systems ([CHI 2022](https://chi2022.acm.org/))</i>, New Orleans, The United States. 2022. Full paper. CCF-A. <br />
 	[preprint](/files/CHI_2022_zxh.pdf)</small>
+
+* Pull Request Latency Explained: An Empirical Overview. <br />
+	<small><strong>Xunhui Zhang</strong>, Yue Yu, Tao Wang, Ayushi Rastogi, Huaimin Wang <br />
+	<i>[Empirical Software Engineering] (https://www.springer.com/journal/10664)</i>, 2022. Impact factor: 3.126. JCR-I. <br />
+	[preprint](/files/ESE_2022_zxh.pdf)</small>
 
 * Teegraph: trusted execution environment and directed acyclic graph-based consensus algorithm for IoT blockchains. <br />
 	<small>Xiang Fu, Huaimin Wang, Peichang Shi, Xingkong Ma, <strong>Xunhui Zhang</strong> <br />
