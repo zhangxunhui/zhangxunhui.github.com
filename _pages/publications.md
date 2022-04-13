@@ -9,20 +9,25 @@ author_profile: true
 	<i>2022 ACM CHI Conference on Human Factors in Computing Systems ([CHI 2022](https://chi2022.acm.org/))</i>, New Orleans, The United States. 2022. Full paper. CCF-A. <br />
 	[preprint](/files/CHI_2022_zxh.pdf)</small>
 
+* Pull Request Decisions Explained: An Empirical Overview. <br />
+	<small><strong>Xunhui Zhang</strong>, Yue Yu, Georgios Gousios, Ayushi Rastogi <br />
+	<i>[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)</i>, 2022. Impact factor: 6.226. CCF-A. <br />
+	[preprint](/files/TSE_2022_zxh.pdf)</small>
+
 * Pull Request Latency Explained: An Empirical Overview. <br />
 	<small><strong>Xunhui Zhang</strong>, Yue Yu, Tao Wang, Ayushi Rastogi, Huaimin Wang <br />
-	<i>[Empirical Software Engineering] (https://www.springer.com/journal/10664)</i>, 2022. Impact factor: 3.126. JCR-I. <br />
+	<i>[Empirical Software Engineering](https://www.springer.com/journal/10664)</i>, 2022. Impact factor: 3.126. JCR-I. <br />
 	[preprint](/files/ESE_2022_zxh.pdf)</small>
 
 * Teegraph: trusted execution environment and directed acyclic graph-based consensus algorithm for IoT blockchains. <br />
 	<small>Xiang Fu, Huaimin Wang, Peichang Shi, Xingkong Ma, <strong>Xunhui Zhang</strong> <br />
-	<i>[Science China Information Sciences] (https://www.springer.com/journal/11432)</i>, 2022. Impact factor: 4.380. <br />
+	<i>[Science China Information Sciences](https://www.springer.com/journal/11432)</i>, 2022. Impact factor: 4.380. <br />
 	[pdf](/files/SCIS_2022_fx.pdf)</small>
 
 ## 2021
 * Jointgraph: A DAG-based efficient consensus algorithm for consortium blockchains. <br />
 	<small>Xiang Fu, Huaimin Wang, Peichang Shi, Xue Ouyang, <strong>Xunhui Zhang</strong> <br />
-	<i>[Journal of Software: Practice and Experience] (https://onlinelibrary.wiley.com/journal/1097024x)</i>, 2021. Impact factor: 2.028. <br />
+	<i>[Journal of Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x)</i>, 2021. Impact factor: 2.028. <br />
 	[pdf](/files/JSPE_2021_fx.pdf)</small>
 
 ## 2020
@@ -49,7 +54,7 @@ author_profile: true
 
 * RepoLike: amulti-feature-based personalized recommendation approach for open-source repositories. <br />
 	<small>Cheng Yang, Qiang Fan, Tao Wang, Gang Yin, <strong>Xunhui Zhang</strong>, Yue Yu, Huaimin Wang <br />
-	<i>[Frontiers of Information Technology & Electronic Engineering] (https://www.springer.com/journal/11714)</i>, 2019. Impact factor: 2.161. <br />
+	<i>[Frontiers of Information Technology & Electronic Engineering](https://www.springer.com/journal/11714)</i>, 2019. Impact factor: 2.161. <br />
 	[pdf](/files/FITEE_2019_yc.pdf)</small>
 
 ## 2018
