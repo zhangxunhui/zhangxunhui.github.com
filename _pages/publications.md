@@ -86,12 +86,12 @@ author_profile: true
 * Evaluating Students' Learning Situations Using "Four-quadrant Law". <br />
 	<small>Jinze Liu, Dongyang Hu, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
 	<i>The 14th China-Europe International Symposium on Software Engineering Education ([CEISEE 2018](https://ceisee2018cn.wordpress.com/))</i>, Shenzhen, China. 2018. Full paper.<br />
-	[pdf]/files/CEISEE_2018_ljz()</small>
+	[pdf](/files/CEISEE_2018_ljz.pdf)</small>
 	
 * Analyzing Student Behavior in Online Programming Courses.<br />
 	<small>Xinyu You, Bohong Liu, Menghua Cao, <strong>Xunhui Zhang</strong>, Tao Wang, Yue Yu, Gang Yin<br />
 	<i>The 14th China-Europe International Symposium on Software Engineering Education ([CEISEE 2018](https://ceisee2018cn.wordpress.com/))</i>, Shenzhen, China. 2018. Full paper.<br />
-	[pdf]/files/CEISEE_2018_yxy()</small>
+	[pdf](/files/CEISEE_2018_yxy.pdf)</small>
 
 
 ## 2017
