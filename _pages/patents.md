@@ -33,7 +33,7 @@ author_profile: true
 
 * [CN113342316A] 面向开源平台的开放式任务声明和关联方法、装置和设备. <br />
 	<small>余跃, 李志星, 张禹, 王涛, <strong>张迅晖</strong>, 王怀民 <br />
-	公开日期: 2021.09.03 [valid]</small>
+	公开日期: 2021.09.03 [pending]</small>
 
 * [CN112988135A] 面向开源软件的任务单元推荐方法、装置和计算机设备. <br />
 	<small>余跃, 张禹, 李志星, 王涛, <strong>张迅晖</strong>, 毛新军 <br />
