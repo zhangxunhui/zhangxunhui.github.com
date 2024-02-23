@@ -69,7 +69,7 @@ author_profile: true
 	<small>余跃, <strong>张迅晖</strong>, 毛新军, 曾雅蓉, 王涛, 李志星, 范强 <br />
 	公开日期: 2019.08.27 [valid]</small>
 
-# 2018
+## 2018
 * [CN108509218A] 基于Codepedia众包平台的第三方工具优化方法. <br />
 	<small>王涛, 於杰, 王怀民, 尹刚, 余跃, <strong>张迅晖</strong>, 范强, 曾令斌, 张洋, 李耀宗, 游薪渝, 陈明 <br />
 	公开日期: 2018.09.07 [valid]</small>
