@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+* Teegraph: A Blockchain consensus algorithm based on TEE and DAG for data sharing in IoT. <br />
+	<small>Xiang Fu, Huaimin Wang, Peichang Shi, <strong>Xunhui Zhang</strong> <br />
+	<i>Journal of Systems Architecture ([JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture))</i>, 2022. Impact factor: 4.5. CCF-B. <br />
+	[preprint](/files/JSA_2022_fx.pdf)</small>
+
 * 代码克隆相关研究综述. <br />
 	<small><strong>张迅晖</strong>, 王涛, 余跃, 钟岩, 张晏芝, 王怀民 <br />
 	<i>软件学报 ([JOS](https://www.jos.org.cn/jos/home))</i>, 2022. Impact factor: 1.642. CCF-A (中文). <br />
