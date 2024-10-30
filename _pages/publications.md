@@ -7,7 +7,12 @@ author_profile: true
 * An Empirical Study of Cross-Project Pull Request Recommendation in GitHub. <br />
 	<small>Wenyu Xu, Yao Lu, <strong>Xunhui Zhang</strong>, Tanghaoran Zhang, Xinjun Mao and Bo Lin <br />
 	<i>31st Asia-Pacific Software Engineering Conference ([APSEC 2024](https://conf.researchr.org/home/apsec-2024))</i>, Chongqing, China. 2024. Full paper. CCF-C. <br />
-	[preprint](APSE_2024_xwy)</small>
+	[preprint](/files/APSEC_2024_xwy.pdf)</small>
+
+* Think Before Acting: The Necessity of Endowing Robot Terminals With the Ability to Fine-Tune Reinforcement Learning Policies. <br />
+	<small>Wenyu Xu, Yao Lu, <strong>Xunhui Zhang</strong>, Tanghaoran Zhang, Xinjun Mao and Bo Lin <br />
+	<i>The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications ([ISPA 2024](https://www.ieee-ispa.org/2024/ispa/))</i>, Kaifeng, China. 2024. Full paper. CCF-C. <br />
+	[preprint](/files/ISPA_2024_gxd.pdf)</small>
 
 ## 2022
 * Teegraph: A Blockchain consensus algorithm based on TEE and DAG for data sharing in IoT. <br />
