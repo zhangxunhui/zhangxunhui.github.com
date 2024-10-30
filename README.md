@@ -47,7 +47,7 @@ docker build -t jekyll-site .
 
 Next, run the container:
 ```bash
-docker run -p 4000:4000 --rm -v ${pwd}:/usr/src/app jekyll-site
+docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 ```
 
 # Maintenance

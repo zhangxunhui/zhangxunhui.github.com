@@ -14,7 +14,8 @@ WORKDIR /usr/src/app
 COPY Gemfile ./
 
 # Install bundler and dependencies
-RUN gem install bundler:2.3.26 && bundle install
+RUN gem install bundler:2.3.26
+RUN bundle install
 
 # Expose port 4000 for Jekyll server
 EXPOSE 4000

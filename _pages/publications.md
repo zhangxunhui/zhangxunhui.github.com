@@ -3,6 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+* An Empirical Study of Cross-Project Pull Request Recommendation in GitHub. <br />
+	<small>Wenyu Xu, Yao Lu, <strong>Xunhui Zhang</strong>, Tanghaoran Zhang, Xinjun Mao and Bo Lin <br />
+	<i>31st Asia-Pacific Software Engineering Conference ([APSEC 2024](https://conf.researchr.org/home/apsec-2024))</i>, Chongqing, China. 2024. Full paper. CCF-C. <br />
+	[preprint](APSE_2024_xwy)</small>
+
 ## 2022
 * Teegraph: A Blockchain consensus algorithm based on TEE and DAG for data sharing in IoT. <br />
 	<small>Xiang Fu, Huaimin Wang, Peichang Shi, <strong>Xunhui Zhang</strong> <br />
