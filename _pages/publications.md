@@ -15,7 +15,7 @@ author_profile: true
 	[preprint](/files/APSEC_2024_xwy.pdf)</small>
 
 * Think Before Acting: The Necessity of Endowing Robot Terminals With the Ability to Fine-Tune Reinforcement Learning Policies. <br />
-	<small>Wenyu Xu, Yao Lu, <strong>Xunhui Zhang</strong>, Tanghaoran Zhang, Xinjun Mao and Bo Lin <br />
+	<small>Dawei Feng, Xudong Gong, <strong>Xunhui Zhang</strong> and Jun Fu <br />
 	<i>The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications ([ISPA 2024](https://www.ieee-ispa.org/2024/ispa/))</i>, Kaifeng, China. 2024. Full paper. CCF-C. <br />
 	[preprint](/files/ISPA_2024_gxd.pdf)</small>
 
