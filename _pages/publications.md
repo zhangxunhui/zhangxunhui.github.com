@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
+* Improving API Knowledge Comprehensibility: A Context-Dependent Entity Detection and Context Completion Approach using LLM. <br />
+	<small>Zhang Zhang, Xinjun Mao, Shangwen Wang, Kang Yang, Tanghaoran Zhang, Fei Gao and <strong>Xunhui Zhang</strong> <br />
+	<i>The IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2025](https://conf.researchr.org/home/saner-2025))</i>, Montréal, Québec, Canada. 2025. Full paper. CCF-B. <br />
+	[preprint](/files/SONAR_2025_zz.pdf)</small>
+
 * An Empirical Study of Cross-Project Pull Request Recommendation in GitHub. <br />
 	<small>Wenyu Xu, Yao Lu, <strong>Xunhui Zhang</strong>, Tanghaoran Zhang, Xinjun Mao and Bo Lin <br />
 	<i>31st Asia-Pacific Software Engineering Conference ([APSEC 2024](https://conf.researchr.org/home/apsec-2024))</i>, Chongqing, China. 2024. Full paper. CCF-C. <br />
