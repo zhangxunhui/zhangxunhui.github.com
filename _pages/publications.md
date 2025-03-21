@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2025
 * Open source oriented cross-platform survey. <br />
-	<small>Simeng Yao, <strong>Xunhui Zhang</strong>, Yang Zhang and Tao Wang</small>
+	<small>Simeng Yao, <strong>Xunhui Zhang</strong>, Yang Zhang and Tao Wang
 	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology))</i>, 2025. Impact factor: 3.8. CCF-B. <br />
 	[pdf](/files/IST_2025_ysm.pdf)</small>
 
